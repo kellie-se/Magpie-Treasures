@@ -1,0 +1,81 @@
+/* Light theme (default) */
+[data-theme="light"] {
+  color-scheme: light;
+  --background-image: url('../assets/silhouette-transparent-lt.png');
+
+  --color-page: var(--snow);
+  --color-surface: var(--snow-lt-1);
+  --color-text-primary: var(--ink);
+  --color-text-secondary: var(--ink-lt-2);
+  --color-text-error: var(--error-dk);
+  --color-border: var(--slate-lt-2);
+  --color-nav-bg: var(--snow-lt-1);
+  --color-footer-bg: var(--slate-lt-1);
+  --color-footer-text: var(--snow-dk-1);
+
+  --color-link: var(--teal);
+  --color-link-hover: var(--teal-dk-2);
+  --color-focus-ring: var(--teal);
+
+  --color-primary: var(--blue);
+  --color-primary-hover: var(--blue-dk-1);
+  --color-primary-pressed: var(--blue-dk-2);
+  --color-on-primary: var(--snow);
+  --color-primary-shadow: var(--blue-dk-3);
+  --color-primary-track: var(--ink-lt-5);
+
+  --color-disabled-surface: var(--slate-lt-5);
+  --color-disabled-text: var(--slate);
+  --color-disabled-shadow: var(--slate-lt-3);
+
+  --color-status-text: var(--ink);
+  --color-status-success-bg: var(--success-lt);
+  --color-status-success-accent: var(--success-dk);
+  --color-status-error-bg: var(--error-lt);
+  --color-status-error-accent: var(--error-dk);
+  --color-status-warning-bg: var(--warning-lt);
+  --color-status-warning-accent: var(--warning-dk);
+  --color-status-info-bg: var(--info-lt);
+  --color-status-info-accent: var(--info-dk);
+}
+
+/* Dark theme */
+[data-theme="dark"] {
+  color-scheme: dark;
+  --background-image: url('../assets/silhouette-transparent-dk.png');
+
+  --color-page: var(--slate-dk-2);
+  --color-surface: var(--slate-dk-1);
+  --color-text-primary: var(--snow);
+  --color-text-secondary: var(--snow-dk-2);
+  --color-text-error: var(--error-lt);
+  --color-border: var(--slate-lt-4);
+  --color-nav-bg: var(--slate);
+  --color-footer-bg: var(--ink);
+  --color-footer-text: var(--snow);
+
+  --color-link: var(--teal-lt-4);
+  --color-link-hover: var(--teal-lt-5);
+  --color-focus-ring: var(--teal-lt-2);
+
+  --color-primary: var(--blue-lt-3);
+  --color-primary-hover: var(--blue-lt-4);
+  --color-primary-pressed: var(--blue-lt-2);
+  --color-on-primary: var(--ink);
+  --color-primary-shadow: var(--blue-lt-1);
+  --color-primary-track: var(--ink-lt-2);
+
+  --color-disabled-surface: var(--slate);
+  --color-disabled-text: var(--slate-lt-5);
+  --color-disabled-shadow: var(--slate);
+
+  --color-status-text: var(--snow);
+  --color-status-success-bg: var(--success-dk);
+  --color-status-success-accent: var(--success-lt);
+  --color-status-error-bg: var(--error-dk);
+  --color-status-error-accent: var(--error-lt);
+  --color-status-warning-bg: var(--warning-dk);
+  --color-status-warning-accent: var(--warning-lt);
+  --color-status-info-bg: var(--info-dk);
+  --color-status-info-accent: var(--info-lt);
+}

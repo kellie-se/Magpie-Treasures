@@ -1,0 +1,77 @@
+:root {
+  /* Ink */
+  --ink-lt-5: #E6E9EF;
+  --ink-lt-4: #9BA9BF;
+  --ink-lt-3: #50607C;
+  --ink-lt-2: #384357;
+  --ink-lt-1: #28303E;
+  --ink: #14181F;
+  --ink-dk-1: #080A0C;
+
+  /* Slate */
+  --slate-lt-5: #D0D5DC;
+  --slate-lt-4: #A2ABB9;
+  --slate-lt-3: #7F8C9F;
+  --slate-lt-2: #637284;
+  --slate-lt-1: #586474;
+  --slate: #4B5563;
+  --slate-dk-1: #3D4651;
+  --slate-dk-2: #303741;
+  --slate-dk-3: #23282F;
+
+  /* Blue */
+  --blue-lt-5: #CFDDF2;
+  --blue-lt-4: #A2C1F0;
+  --blue-lt-3: #7CA6E6;
+  --blue-lt-2: #5C8BD3;
+  --blue-lt-1: #4071BB;
+  --blue: #2C5AA0;
+  --blue-dk-1: #234880;
+  --blue-dk-2: #1A3660;
+  --blue-dk-3: #122440;
+
+  /* Teal */
+  --teal-lt-5: #ECFCFD;
+  --teal-lt-4: #B8E3E8;
+  --teal-lt-3: #85CAD0;
+  --teal-lt-2: #53AFB8;
+  --teal-lt-1: #25949D;
+  --teal: #0B7A83;
+  --teal-dk-1: #096A71;
+  --teal-dk-2: #044F55;
+  --teal-dk-3: #053539;
+
+  /* Sheen */
+  --sheen-lt-4: #E9E4F1;
+  --sheen-lt-3: #BFAED5;
+  --sheen-lt-2: #9478BA;
+  --sheen-lt-1: #7E5DAC;
+  --sheen: #6A4C93;
+  --sheen-dk-1: #573E79;
+  --sheen-dk-2: #44315E;
+
+  /* Sand */
+  --sand-lt-2: #F8F6F2;
+  --sand-lt-1: #F1EDE4;
+  --sand: #E7E0D2;
+  --sand-dk-1: #DBD1BD;
+  --sand-dk-2: #CDBFA2;
+  --sand-dk-3: #A08D66;
+  --sand-dk-4: #776540;
+
+  /* Snow */
+  --snow-lt-1: #FEFEFE;
+  --snow: #F7F8F6;
+  --snow-dk-1: #EBEDE8;
+  --snow-dk-2: #D9DBD5;
+
+  /* Status */
+  --success-lt: #E0F5E9;
+  --success-dk: #194D2E;
+  --error-lt: #F8CBCB;
+  --error-dk: #881600;
+  --warning-lt: #F9E7BC;
+  --warning-dk: #594100;
+  --info-lt: #CFDDF2;
+  --info-dk: #234880;
+}
