@@ -55,7 +55,7 @@ function Components() {
             <AppWindow aria-hidden="true" className="primColor mgTpMini flexShrink0" />
             <div className="flexGrow1">
               <p className="bold">Modal Component</p>
-              <p className="mgTp8">A focus-trapped dialog for interrupting the page to confirm an action or show critical content.</p>
+              <p className="mgTp8">A dialog for interrupting the page to confirm an action or show critical content, keeping focus inside while it's open.</p>
             </div>
             <Button buttonText="View Component" path="/components/modal" />
           </div>

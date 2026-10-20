@@ -35,7 +35,7 @@ function Foundations() {
                     </div>
                   </div>
                   <h3 className="mgTp24 subHeading">Theme</h3>
-                  <p className="mgTp12">Primitives get assigned a role for light and dark mode. Components reference these theme tokens, never the primitives directly, so the whole system can be retheme by changing this one layer.</p>
+                  <p className="mgTp12">Primitives get assigned a role for light and dark mode. Components reference these theme tokens, never the primitives directly, so the whole system can be rethemed by changing this one layer.</p>
                   <h4 className="mgTp24 subHeading">Light Theme</h4>
                   <div className="mgTp12" data-theme="light">
                     <div className="colRowHolder colGap8 borderBox surfaceColor pd12">

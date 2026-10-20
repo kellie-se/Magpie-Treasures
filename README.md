@@ -1,6 +1,6 @@
 # Magpie Treasures Design System
 
-A documentation site and component library for Magpie Treasures, a fictional bakery, café, and antiques and handmade goods shop. It's a demonstration project built to showcase design system architecture, typed React components, and accessibility-first patterns, not a published package.
+A documentation site and component library for Magpie Treasures, a fictional antiques, homemade goods, and café shop. It's a demonstration project built to showcase design system architecture, typed React components, and accessibility-first patterns, not a published package.
 
 **Live site:** [charitablemagpie.com/portfolio/magpie-treasures](https://charitablemagpie.com/portfolio/magpie-treasures)
 
@@ -20,7 +20,7 @@ Built by Kellie Sellin Edland. More work at [charitablemagpie.com/portfolio](htt
 
 **Foundations**
 
-- Color primitives and light and dark theme tokens
+- Color primitives, plus light and dark theme tokens
 - Typography (Inria Serif) with a responsive type scale
 - Iconography (Lucide)
 - Spacing and border radius
@@ -37,6 +37,15 @@ Built by Kellie Sellin Edland. More work at [charitablemagpie.com/portfolio](htt
 - React Router
 - Lucide React icons
 - Plain CSS with custom properties for design tokens
+
+## Running locally
+
+Requires Node.js.
+
+    npm install
+    npm run dev
+
+Then open the local address Vite prints in the terminal.
 
 ## Project structure
 
