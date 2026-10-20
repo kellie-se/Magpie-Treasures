@@ -3,6 +3,7 @@
 A documentation site and component library for Magpie Treasures, a fictional antiques, homemade goods, and café shop. It's a demonstration project built to showcase design system architecture, typed React components, and accessibility-first patterns, not a published package.
 
 **Live site:** [charitablemagpie.com/portfolio/magpie-treasures](https://charitablemagpie.com/portfolio/magpie-treasures)
+**Figma:** [Color Foundations](https://www.figma.com/design/uSBcrSGK9LVaTYUmJKCxJQ/Magpie-Treasures-Design-System?node-id=0-1)
 
 Built by Kellie Sellin Edland. More work at [charitablemagpie.com/portfolio](https://charitablemagpie.com/portfolio).
 
